@@ -1,5 +1,0 @@
-<application>
-  <component name="CodeInsightSettings">
-    <EXCLUDED_PACKAGE NAME="com.sun.javafx.collections.MappingChange.Map" />
-  </component>
-</application>
