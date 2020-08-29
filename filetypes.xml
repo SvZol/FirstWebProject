@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="command" type="JAVA" />
       <mapping pattern="model" type="JAVA" />
+      <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
